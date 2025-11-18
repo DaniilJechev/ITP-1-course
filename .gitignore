@@ -6,7 +6,8 @@ out/
 .idea
 
 ### tmp files
-input.txt
+input*.txt
+output*.txt
 
 ### Eclipse ###
 .apt_generated
